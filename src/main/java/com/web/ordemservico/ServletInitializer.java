@@ -1,4 +1,4 @@
-package com.web.ordemservicoi;
+package com.web.ordemservico;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
