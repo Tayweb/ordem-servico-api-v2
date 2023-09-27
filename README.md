@@ -1,2 +1,2 @@
 # ordem-servico-api-v2
-Ordem de Serviço com pricípios SOLID
+Ordem de Serviço com princípios SOLID
