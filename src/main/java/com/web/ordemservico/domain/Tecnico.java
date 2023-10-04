@@ -30,4 +30,8 @@ public class Tecnico extends Pessoa {
     public void rebaixarParaBasico() {
         this.tipoAcessoEnum = TipoAcessoEnum.BASICO;
     }
+
+    public void desativarTecnico() {
+        this.ativo = false;
+    }
 }
